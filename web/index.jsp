@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>sfdsfd$</title>s
+    <title>sfdsfd$法大使馆的 </title>s
   </head>
   <body>
   $END$
