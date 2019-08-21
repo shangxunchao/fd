@@ -10,5 +10,6 @@ public class Main {
         int c=0;
         double asd=10;
         System.out.println("a="+a);
+        int bg=0;
     }
 }
